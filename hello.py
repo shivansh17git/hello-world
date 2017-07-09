@@ -1,6 +1,7 @@
 import str
 def main():
-    print "hey ther!!"
+    print "hey there!!"
+    print "Bye!!"
     
 if name == '__main__' :
     main()
